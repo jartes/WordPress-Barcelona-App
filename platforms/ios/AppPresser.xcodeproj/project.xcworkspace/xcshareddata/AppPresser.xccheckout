@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>526FE559-B9F1-477D-BA17-124F226D4CB8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AppPresser</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ED4C692DF11EA04DA7BC2C13686F00B48980A496</key>
+		<string>https://bitbucket.org/artesans/badoink-app-phonegap.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/AppPresser.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ED4C692DF11EA04DA7BC2C13686F00B48980A496</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/artesans/badoink-app-phonegap.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ED4C692DF11EA04DA7BC2C13686F00B48980A496</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ED4C692DF11EA04DA7BC2C13686F00B48980A496</string>
+			<key>IDESourceControlWCCName</key>
+			<string>badoink-app</string>
+		</dict>
+	</array>
+</dict>
+</plist>
